@@ -55,7 +55,7 @@ newgrp docker
 
 With a VPS, you have a static IP by default. In your home network, that is typically not the case.
 
-You'll want a static IP address for your server, one that doesn't change. This allows easier
+You'll want a static IP address for your server on your local network, one that doesn't change. This allows easier
 port-forwarding for your Ethereum client peering, and easier management and remote access for you:
 You do not need to find a changing server address. You can do set an unchanging IP address a few
 different ways.
